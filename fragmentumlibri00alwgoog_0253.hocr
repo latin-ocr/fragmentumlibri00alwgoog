@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fragmentumlibri00alwgoog_0253.png"; bbox 0 0 2822 4816; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 225 2090 1299 2471">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 225 2090 1299 2471">
+     <span class='ocr_line' id='line_1_1' title="bbox 231 2090 1299 2251; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 231 2090 392 2238; x_wconf 54' lang='grc' dir='ltr'>Ἳζ</span> <span class='ocrx_word' id='word_1_2' title='bbox 427 2104 573 2251; x_wconf 46' lang='grc' dir='ltr'>Ἧι.</span> <span class='ocrx_word' id='word_1_3' title='bbox 622 2129 690 2220; x_wconf 60' lang='grc' dir='ltr'>τ,</span> <span class='ocrx_word' id='word_1_4' title='bbox 746 2091 946 2206; x_wconf 48' lang='grc' dir='ltr'>ἐξ,</span> <span class='ocrx_word' id='word_1_5' title='bbox 990 2109 1038 2214; x_wconf 70' lang='grc' dir='ltr'>ε.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1090 2109 1299 2238; x_wconf 62' lang='lat' dir='ltr'>„E</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 225 2333 1286 2471; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 225 2343 445 2433; x_wconf 53' lang='grc' dir='ltr'>Ξ.</span> <span class='ocrx_word' id='word_1_8' title='bbox 482 2341 658 2471; x_wconf 57' lang='grc' dir='ltr'>ἶ.</span> <span class='ocrx_word' id='word_1_9' title='bbox 698 2377 875 2467; x_wconf 55' lang='grc' dir='ltr'>ἶ</span> <span class='ocrx_word' id='word_1_10' title='bbox 855 2347 949 2431; x_wconf 40' lang='grc' dir='ltr'>εἴ</span> <span class='ocrx_word' id='word_1_11' title='bbox 1005 2366 1114 2428; x_wconf 69' lang='grc' dir='ltr'><em>Ξ</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1169 2333 1286 2445; x_wconf 58' lang='grc' dir='ltr'>ὲ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 215 2553 1411 2920">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 215 2553 1411 2920">
+     <span class='ocr_line' id='line_1_3' title="bbox 223 2553 1288 2712; textangle 90"><span class='ocrx_word' id='word_1_13' title='bbox 223 2553 1288 2712; x_wconf 40' lang='grc' dir='ltr'>ῒῖῇαῖκᾞέἓψ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 215 2777 1411 2920; textangle 90"><span class='ocrx_word' id='word_1_14' title='bbox 215 2782 532 2910; x_wconf 51' lang='grc' dir='ltr'>Ἐμὲ</span> <span class='ocrx_word' id='word_1_15' title='bbox 515 2783 665 2896; x_wconf 58' lang='grc' dir='ltr'>εἰ</span> <span class='ocrx_word' id='word_1_16' title='bbox 727 2777 1411 2920; x_wconf 29' lang='lat' dir='ltr'>wel-zaffssae2</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1416 4816">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1416 4816">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1416 4816; textangle 90"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1416 4816; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
